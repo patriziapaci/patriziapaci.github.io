@@ -1,36 +1,34 @@
-## Bio
+## About me
 
-I am a Postdoctoral Research Fellow in Animal-Computer Interaction at The Open University's Computing and Communications School, UK. I first trained as an animal physiologist and ecologist before gaining a Ph.D. in Interaction Design. My research interest is in analysing the behaviour of animals who interact with computer-based technologies. I specialised on measuring the behavioural effects that biotelemetry systems have on animals, to understand individuals’ experience with body-attached devices. My research aims at designing technologies and settings for animals that systematically accord with their needs and characteristics and therefore improve their welfare.
+Do animals interacts with computers? Indeed much more of what you might think! I am a researcher in Animal-Computer Interaction and I investigate how non-human animals perceive, react, and interact with electronic devices such as controls, wearables, and technological enrichments. I first trained as an animal physiologist and ecologist before gaining a Ph.D. in Interaction Design. My research interest is in analysing the behaviour of animals who interact with computer-based technologies. I specialised on measuring the behavioural effects that biotelemetry systems have on animals, to understand individuals’ experience with body-attached devices. My research aims at designing technologies and settings for animals that systematically accord with their needs and characteristics and therefore improve their welfare.
+
+Since 
 
 ## My Research
 
 ## CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+- PhD, The Open University, UK
+- Msc, University of Camerino, Italy
+- BSc, University of Camerino, Italy
 
-# Header 1
-## Header 2
-### Header 3
+Between October 2015 and March 2019 I was a doctoral candidate in Computing and Communications at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
 
-- Bulleted
-- List
+During my Master's degree in Management of the Natural Environment at the University of Camerino, I specialised in monitoring methods of animal biodiversity.
 
-1. Numbered
-2. List
+I specialised in animal physiology during my Bachelor' s degree in Natural Sciences at the university of Camerino. This included six months of Erasmus studies at the University of Seville (Spain) where I studied neurophysiology.
 
-**Bold** and _Italic_ and `Code` text
+### Research Experience
+Since April 2019, I have been a Research Associate in Animal-Computer Interaction researching how to design interactive systems for non-human animals at The Open University.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+From 2009 to 2012, I worked as a Research Assistant in various projects.
+During this time, I obtained funds for collaborating with the group of Biogeographie of the University of Bayreuth
 
 ## Publications
 
-- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). Honourable mention award [ACM Digital Library] (https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
+- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). Honourable mention award. [Link] (https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
 - Paci P, Mancini C, Price BA. (2019) Designing for wearability: an animal-centred framework. In Proc. of the 6th Int. Conf. on Animal-Computer Interaction (ACI2019), art.8, pp. 1-12 (ACM). Oral presentation
 - Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemetry: implementation and wearability test of a prototype. In Proc. of the 23rd Intern. Symposium on Wearable Computers (ISWC’19), London, UK, pp. 177-185 (ACM). Oral presentation
 - Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM). Oral presentation
