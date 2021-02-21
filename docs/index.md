@@ -1,10 +1,10 @@
-## Patrizia
+## Bio
 
-You can use the [editor on GitHub](https://github.com/patriziapaci/patriziapaci.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Postdoctoral Research Fellow in Animal-Computer Interaction at The Open University's Computing and Communications School, UK. I first trained as an animal physiologist and ecologist before gaining a Ph.D. in Interaction Design. My research interest is in analysing the behaviour of animals who interact with computer-based technologies. I specialised on measuring the behavioural effects that biotelemetry systems have on animals, to understand individuals’ experience with body-attached devices. My research aims at designing technologies and settings for animals that systematically accord with their needs and characteristics and therefore improve their welfare.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Research
 
-### Markdown
+## CV
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +28,20 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patriziapaci/patriziapaci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). Honourable mention award [ACM Digital Library] (https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
+- Paci P, Mancini C, Price BA. (2019) Designing for wearability: an animal-centred framework. In Proc. of the 6th Int. Conf. on Animal-Computer Interaction (ACI2019), art.8, pp. 1-12 (ACM). Oral presentation
+- Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemetry: implementation and wearability test of a prototype. In Proc. of the 23rd Intern. Symposium on Wearable Computers (ISWC’19), London, UK, pp. 177-185 (ACM). Oral presentation
+- Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM). Oral presentation
+- Paci P, Mancini C, Price BA. (2016) Designing for wearability in animal biotelemetry. In Proc. of the 3rd Int. Conf. on Animal-Computer Interaction (ACI2016), Milton Keynes, art.13 (ACM). Oral presentation
+- Paci P, Mancini C, Price BA. (2016) Towards a wearer-centred framework for animal biotelemetry. In Spink AJ (ed.) Measuring Behaviour 2016, Dublin, Ireland, pp. 465–469. Oral presentation
+- Grappasonni I, Paci P, Mazzucchi F, De Longis S, Amenta F. (2012) Awareness of health risks at the workplace and of risks of contracting communicable diseases including those related to food hygiene, among seafarers. International Maritime Health 63, 1: 24-31.
+- Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk perception and sexual behaviours among seafarers. International Maritime Health 62, 2: 131-137.
+- Wellstein C, Paci P, Thiel D. et al. (2010) Variability of clonal growth of European grass species in climate change experiments. Ecological Society of Germany, Switzerland and Austria 40th Anniversary Meeting, Gissen, Germany. Poster presentation
+- Paci P, Brusaferro A, Insom E. (2009) Study of the red-backed shrike (Lanius collurio) on the plateau of Colfiorito (Italy). XV Italian Congress of Ornithology, Sabaudia, Italy. Poster presentation
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## links
+[Orcid] (https://orcid.org/0000-0002-6128-4516)
+[Twitter] (https://twitter.com/home?lang=it)
+[Linkedin] (https://www.linkedin.com/in/patrizia-paci-820614206/)
