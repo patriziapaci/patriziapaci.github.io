@@ -28,7 +28,7 @@ During this time, I obtained funds for collaborating with the group of Biogeogra
 
 ## Publications
 
-- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). Honourable mention award. [Link] (https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
+- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). Honourable mention award. [Link](https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
 - Paci P, Mancini C, Price BA. (2019) Designing for wearability: an animal-centred framework. In Proc. of the 6th Int. Conf. on Animal-Computer Interaction (ACI2019), art.8, pp. 1-12 (ACM). Oral presentation
 - Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemetry: implementation and wearability test of a prototype. In Proc. of the 23rd Intern. Symposium on Wearable Computers (ISWC’19), London, UK, pp. 177-185 (ACM). Oral presentation
 - Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM). Oral presentation
@@ -40,6 +40,8 @@ During this time, I obtained funds for collaborating with the group of Biogeogra
 - Paci P, Brusaferro A, Insom E. (2009) Study of the red-backed shrike (Lanius collurio) on the plateau of Colfiorito (Italy). XV Italian Congress of Ornithology, Sabaudia, Italy. Poster presentation
 
 ## links
-[Orcid] (https://orcid.org/0000-0002-6128-4516)
-[Twitter] (https://twitter.com/home?lang=it)
-[Linkedin] (https://www.linkedin.com/in/patrizia-paci-820614206/)
+[Orcid](https://orcid.org/0000-0002-6128-4516)
+
+[Twitter](https://twitter.com/home?lang=it)
+
+[Linkedin](https://www.linkedin.com/in/patrizia-paci-820614206/)
