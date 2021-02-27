@@ -104,4 +104,4 @@ I specialised in animal physiology during my Bachelor' s degree in Natural Scien
 
 [Google Scholar](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
-e-mail:patrizia.paci@open.ac.uk
+e-mail: patrizia.paci@open.ac.uk
