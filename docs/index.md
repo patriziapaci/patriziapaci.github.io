@@ -105,11 +105,13 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 
 ## links
 [Orcid](https://orcid.org/0000-0002-6128-4516)
-<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png"(https://orcid.org/0000-0002-6128-4516)>
+[<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516)
 
 [Twitter](https://twitter.com/home?lang=it)
 
 [Linkedin]<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109402294-051e8780-7955-11eb-87df-955d38d91f57.png">(https://www.linkedin.com/in/patrizia-paci-820614206/)
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 [Google Scholar](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
