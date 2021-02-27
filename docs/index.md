@@ -62,28 +62,28 @@ I specialised in animal physiology during my Bachelor' s degree in Natural Scien
 ## Publications
 
 ### 2021
-- Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. *Submitted, waiting for acceptance* to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
+Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. *Submitted, waiting for acceptance* to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
 
 ### 2020
-- Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). *Honourable mention award*. 
+Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). *Honourable mention award*. 
 [ACM Library Open Access](https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
 
 ### 2019
-- Paci P, Mancini C, Price BA. (2019) Designing for wearability: an animal-centred framework. In Proc. of the 6th Int. Conf. on Animal-Computer Interaction (ACI2019), art.8, pp. 1-12 (ACM).
+Paci P, Mancini C, Price BA. (2019) Designing for wearability: an animal-centred framework. In Proc. of the 6th Int. Conf. on Animal-Computer Interaction (ACI2019), art.8, pp. 1-12 (ACM).
 [ACM Library](https://dl.acm.org/doi/abs/10.1145/3371049.3371051) or [OU Repository](https://oro.open.ac.uk/67244/1/ACI2019-camera%20ready.pdf)
 
-- Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemetry: implementation and wearability test of a prototype. In Proc. of the 23rd Intern. Symposium on Wearable Computers (ISWC’19), London, UK, pp. 177-185 (ACM).
+Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemetry: implementation and wearability test of a prototype. In Proc. of the 23rd Intern. Symposium on Wearable Computers (ISWC’19), London, UK, pp. 177-185 (ACM).
 [ACM Library Open Access](https://dl.acm.org/doi/abs/10.1145/3341163.3347750)
 
 ### 2017
-- Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM).
+Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM).
 [ACM Library](https://dl.acm.org/doi/abs/10.1145/3152130.3152144) or [OU Repository](http://oro.open.ac.uk/52255/10/ACI%202017%20paper-19-sent%20to%20ORO.pdf)
 
 ### 2016
-- Paci P, Mancini C, Price BA. (2016) Designing for wearability in animal biotelemetry. In Proc. of the 3rd Int. Conf. on Animal-Computer Interaction (ACI2016), Milton Keynes, art.13 (ACM).
+Paci P, Mancini C, Price BA. (2016) Designing for wearability in animal biotelemetry. In Proc. of the 3rd Int. Conf. on Animal-Computer Interaction (ACI2016), Milton Keynes, art.13 (ACM).
 [ACM Library](https://dl.acm.org/doi/abs/10.1145/2995257.3012018) or [OU Repository](http://oro.open.ac.uk/47735/1/108-patrizia_paci.pdf)
 
-- Paci P, Mancini C, Price BA. (2016) Towards a wearer-centred framework for animal biotelemetry. In Spink AJ (ed.) Measuring Behaviour 2016, Dublin, Ireland, pp. 465–469. 
+Paci P, Mancini C, Price BA. (2016) Towards a wearer-centred framework for animal biotelemetry. In Spink AJ (ed.) Measuring Behaviour 2016, Dublin, Ireland, pp. 465–469. 
 [OU Repository](https://oro.open.ac.uk/46239/3/Towards%20a%20wearer-centred%20framework%20for%20animal%20biotelemetry%20-%20revised%20version25March.pdf)
 
 ### 2012
@@ -91,7 +91,7 @@ I specialised in animal physiology during my Bachelor' s degree in Natural Scien
 [IMH](https://journals.viamedica.pl/international_maritime_health/article/view/26153) 
 
 ### 2011
-- Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk perception and sexual behaviours among seafarers. International Maritime Health 62, 2: 131-137.
+Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk perception and sexual behaviours among seafarers. International Maritime Health 62, 2: 131-137.
 [IMH](https://journals.viamedica.pl/international_maritime_health/article/view/26189)
 
 ### Posters
