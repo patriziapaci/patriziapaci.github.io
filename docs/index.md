@@ -109,7 +109,7 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 
 [Twitter](https://twitter.com/home?lang=it)
 
-![In](/logos/Linkedin.png)
+![In](/Linkedin.png)
 
 [Linkedin](https://www.linkedin.com/in/patrizia-paci-820614206/)
 
