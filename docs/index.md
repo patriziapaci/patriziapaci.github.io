@@ -11,10 +11,12 @@ Since 2020, I have coordinated
 
 ### Canine Signalling Interfaces for Bio Detection Dogs
 I conducted the behavioural analysis of bio-detection dogs' spontaneous interactions with pressure sensors to provide the handler-dog signalling protocol with a reliable communication tool.
+
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving Wearability in Animal Biotelemetry
 During my doctoral project, I evaluated the wearability of GPS collars for cats, developed a design framework for establishing wearer-centred requirements for animal wearables, and designed a wearer-centred protoype that improved the wearability for cats. 
+
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### The EVENT project
