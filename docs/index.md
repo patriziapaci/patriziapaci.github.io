@@ -82,7 +82,7 @@ Paci P, Mancini C, Price BA. (2019) Wearer-centered design for animal biotelemet
 ### 2017
 Paci P, Mancini C, Price BA. (2017) The role of ethological observation for measuring animal reactions to biotelemetry devices. In Proc. of the 4th Intern. Conf. on Animal-Computer Interaction (ACI2017), Milton Keynes, UK, pp. 5:1–5:12 (ACM).
 
-[ACM Library](https://dl.acm.org/doi/abs/10.1145/3152130.3152144); [OU Repository](http://oro.open.ac.uk/52255/10/ACI%202017%20paper-19-sent%20to%20ORO.pdf)
+[ACM Library](https://dl.acm.org/doi/abs/10.1145/3152130.3152144) [OU Repository](http://oro.open.ac.uk/52255/10/ACI%202017%20paper-19-sent%20to%20ORO.pdf)
 
 ### 2016
 - Paci P, Mancini C, Price BA. (2016) Designing for wearability in animal biotelemetry. In Proc. of the 3rd Int. Conf. on Animal-Computer Interaction (ACI2016), Milton Keynes, art.13 (ACM).
