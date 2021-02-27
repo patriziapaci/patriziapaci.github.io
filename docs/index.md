@@ -62,10 +62,10 @@ I specialised in animal physiology during my Bachelor' s degree in Natural Scien
 ## Publications
 
 ### 2021
-Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. *Submitted, waiting for acceptance* to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
+Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. **Submitted, waiting for acceptance** to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
 
 ### 2020
-Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). *Honourable mention award*. 
+Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM). *Honourable mention award. 
 [ACM Library Open Access](https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
 
 ### 2019
@@ -87,7 +87,7 @@ Paci P, Mancini C, Price BA. (2016) Towards a wearer-centred framework for anima
 [OU Repository](https://oro.open.ac.uk/46239/3/Towards%20a%20wearer-centred%20framework%20for%20animal%20biotelemetry%20-%20revised%20version25March.pdf)
 
 ### 2012
-- Grappasonni I, Paci P, Mazzucchi F, De Longis S, Amenta F. (2012) Awareness of health risks at the workplace and of risks of contracting communicable diseases including those related to food hygiene, among seafarers. International Maritime Health 63, 1: 24-31.
+Grappasonni I, Paci P, Mazzucchi F, De Longis S, Amenta F. (2012) Awareness of health risks at the workplace and of risks of contracting communicable diseases including those related to food hygiene, among seafarers. International Maritime Health 63, 1: 24-31.
 [IMH](https://journals.viamedica.pl/international_maritime_health/article/view/26153) 
 
 ### 2011
@@ -105,6 +105,7 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 
 ## links
 [Orcid](https://orcid.org/0000-0002-6128-4516)
+![Image](ID.png)
 
 [Twitter](https://twitter.com/home?lang=it)
 
