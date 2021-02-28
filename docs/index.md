@@ -17,22 +17,18 @@ Developing interactive and monitoring technology to support wildlife welfare in 
 Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
 ### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
-Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs
-[Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
+Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
 ### Canine signalling interfaces for Bio Detection Dogs
-Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols.
-[Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
+Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving wearability in animal biotelemetry
 ##### *2014-2019*
-My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred prototype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables.
-[Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
+My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred prototype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### EVENT project
 ##### *2010-2011*
-Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. 
-[Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
+Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
 
 # Curriculum Vitae
 
@@ -58,7 +54,7 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 ### Education
 
 - PhD, The Open University, UK
-- Msc, University of Camerino, Italy
+- MSc, University of Camerino, Italy
 - BSc, University of Camerino, Italy
 
 Between October 2015 and March 2019, I was a doctoral candidate in Computing at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
@@ -108,10 +104,9 @@ Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk percepti
 
 ### Thesis
 Paci P. A wearer-centred framework to design for wearability in animal biotelemetry. PhD Thesis, The Open University.
-
 [OU repository](http://oro.open.ac.uk/67906/1/Thesis%20-%20A%20WCF%20to%20design%20for%20wearability%20in%20animal%20biotelemetry.pdf)
 
-## links
+## Links
 [<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Twitter" src="https://user-images.githubusercontent.com/79411148/109402759-d99d9c00-7958-11eb-9393-ad7f1adc7046.png">](https://twitter.com/home?lang=it) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
-e-mail - patrizia.paci@open.ac.uk
+e-mail: patrizia.paci@open.ac.uk
