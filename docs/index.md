@@ -1,32 +1,42 @@
-Resercher at the Animal-Computer Interaction Lab, The Open University.
-Developing animal-centred technology to improve the working experience of service dogs and designing smart environments for the cognitive enrichment of captive animals.
+# Research
+I am a Resercher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
 
-## Projects
+My research focuses on
+- designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
+- Ethical aspects of animal-centred interactive system design.
+- Developing animal-centred interactive technology to improve the working experience of service dogs.
+- designing animal biotelemetry systems to improve their wearability.
+- Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
+
+# Projects
+
+### Integrated smart systems for endangered species conservation
+Developing interactive and monitoring technology to support wildlife welfare in captivity and conservation in the wild.
 
 ### Privacy-aware multispecies interaction Design and Applications
-My research is currently focused on the development of privacy-aware systems to foster human-animal co-habitation 
+Designing privacy-aware systems to enable compassionate human-animal co-habitation in urban and rural environments.
 
 ### Dog-Smart Homes: Improving Accessibility for Mobility Assitance Dogs
-Since 2020, I have coordinated  
-
+<span style="color:grey">some *2020-2021* text</span>
+Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
 ### Canine Signalling Interfaces for Bio Detection Dogs
-I conducted the behavioural analysis of bio-detection dogs' spontaneous interactions with pressure sensors to provide the handler-dog signalling protocol with a reliable communication tool.
-
+<span style="color:grey">some *2019-2020* text</span>
+Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving Wearability in Animal Biotelemetry
-During my doctoral project, I evaluated the wearability of GPS collars for cats, developed a design framework for establishing wearer-centred requirements for animal wearables, and designed a wearer-centred protoype that improved the wearability for cats. 
-
+<span style="color:grey">some *2014-2019* text</span>
+My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred protoype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### The EVENT project
-I was a visiting researcher at Bayreuth University, where I was part of the EVENT project to study the effects of extreme climatic events on vegetation. 
-
+<span style="color:grey">some *2010-2011* text</span>
+Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. 
 [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
 
-## Curriculum Vitae
+# Curriculum Vitae
 
 ### Research Experience
 
@@ -59,7 +69,7 @@ During my Master's degree in Management of the Natural Environment at the Univer
 
 I specialised in animal physiology during my Bachelor' s degree in Natural Sciences at the university of Camerino. This included six months of Erasmus studies at the University of Seville (Spain) where I studied neurophysiology.
 
-## Publications
+# Publications
 
 ### 2021
 Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. **Submitted, waiting for acceptance** to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
