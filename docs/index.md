@@ -17,22 +17,22 @@ Developing interactive and monitoring technology to support wildlife welfare in 
 Designing privacy-aware systems to enable compassionate human-animal co-habitation in urban and rural environments.
 
 ### Dog-Smart Homes: Improving Accessibility for Mobility Assitance Dogs
-<span style="color:blue"> *2020-2021* </span>
+##### *2020-2021*
 Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
 ### Canine Signalling Interfaces for Bio Detection Dogs
-<span style="color:blue"> *2019-2020* </span>
+##### *2019-2020*
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving Wearability in Animal Biotelemetry
-<span style="color:blue"> *2014-2019* </span>
+##### *2014-2019*
 My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred protoype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### The EVENT project
-<span style="color:blue"> *2010-2011* </span>
+##### *2010-2011*
 Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. 
 [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
 
