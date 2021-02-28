@@ -1,11 +1,11 @@
 # Research
-I am a Resercher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
+I am a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
 
 My research focuses on
-- designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
+- Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
 - Ethical aspects of animal-centred interactive system design.
 - Developing animal-centred interactive technology to improve the working experience of service dogs.
-- designing animal biotelemetry systems to improve their wearability.
+- Designing animal biotelemetry systems to improve their wearability.
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
 
 # Projects
@@ -13,25 +13,23 @@ My research focuses on
 ### Integrated smart systems for endangered species conservation
 Developing interactive and monitoring technology to support wildlife welfare in captivity and conservation in the wild.
 
-### Privacy-aware multispecies interaction Design and Applications
-Designing privacy-aware systems to enable compassionate human-animal co-habitation in urban and rural environments.
+### Privacy-aware multispecies interaction design and applications
+Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
-### Dog-Smart Homes: Improving Accessibility for Mobility Assitance Dogs
-##### *2020-2021*
+### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
 Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
-### Canine Signalling Interfaces for Bio Detection Dogs
-##### *2019-2020*
+### Canine signalling interfaces for Bio Detection Dogs
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
-### Improving Wearability in Animal Biotelemetry
+### Improving wearability in animal biotelemetry
 ##### *2014-2019*
-My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred protoype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables.
+My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred prototype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables.
 [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
-### The EVENT project
+### EVENT project
 ##### *2010-2011*
 Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. 
 [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
@@ -42,17 +40,17 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 
 - Research Associate, The Open University, UK
 - Visting and then PhD researcher, The Open University, UK
-- Researach Assistant, University of Camerino, Italy - University of Bayreuth, Germany
+- Research Assistant, University of Camerino, Italy & University of Bayreuth, Germany
 
-Since April 2019, I have been a Research Associate in Animal-Computer Interaction researching how to design interactive systems for non-human animals at The Open University.
+Since April 2019, I have been a Research Associate in Animal-Computer Interaction, working on designing interactive systems for non-human animals at The Open University.
 
-From October 2014 to September 2015, and then from October 2015 to March 2019, I researcherd how to design for wearability in animal biotelemetry.
+From October 2014 to September 2015, and then from October 2015 to March 2019, I researched how to design for wearability in animal biotelemetry.
 
-From 2009 to 2012, I worked as a Research Assistant in projects on maritime telemedicine, wildlife monitoring, and climate change research
+From 2009 to 2012, I worked as a Research Assistant in projects on maritime telemedicine, wildlife monitoring, and climate change research.
 
 ### Teaching experience
 
-- Associate Lecturer, Natural Sciences, The Open University, UK
+- Associate Lecturer, Questions in Science, The Open University, UK
 - Module Assistant, Evolutionary Biology, The Open University, UK
 - PhD Third-Party Monitor, Research School, The Open University, UK
 - Library Supporter for visually impaired researchers, The Open University, UK
@@ -63,19 +61,19 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 - Msc, University of Camerino, Italy
 - BSc, University of Camerino, Italy
 
-Between October 2015 and March 2019 I was a doctoral candidate in Computing and Communications at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
+Between October 2015 and March 2019, I was a doctoral candidate in Computing at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
 
 During my Master's degree in Management of the Natural Environment at the University of Camerino, I specialised in monitoring methods of animal biodiversity.
 
-I specialised in animal physiology during my Bachelor' s degree in Natural Sciences at the university of Camerino. This included six months of Erasmus studies at the University of Seville (Spain) where I studied neurophysiology.
+I specialised in animal physiology during my Bachelor's degree in Natural Sciences at the University of Camerino. This included six months of Erasmus studies at the University of Seville (Spain), where I studied neurophysiology.
 
 # Publications
 
 ### 2021
-Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. **Submitted, waiting for acceptance** to 2021 Int. Conf. on Designing Interactive Systems (DIS2021).
+Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. **Submitted, waiting for acceptance** to *2021 Int. Conf. on Designing Interactive Systems (DIS2021)*.
 
 ### 2020
-Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. *In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human centred Design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM)*. **Honourable mention award**
+Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. *In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human-centred design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM)*. **Honourable mention award**
 [ACM Library Open Access](https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
 
 ### 2019
@@ -106,7 +104,7 @@ Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk percepti
 
 ### Posters
 - Wellstein C, Paci P, Thiel D. et al. (2010) Variability of clonal growth of European grass species in climate change experiments. *Ecological Society of Germany, Switzerland and Austria 40th Anniversary Meeting, Gissen, Germany*.
-- Paci P, Brusaferro A, Insom E. (2009) Study of the red-backed shrike (Lanius collurio) on the plateau of Colfiorito (Italy). *XV Italian Congress of Ornithology, Sabaudia, Italy*.
+- Paci P, Brusaferro A, Insom E. (2009) Study of the red-backed shrike (*Lanius collurio*) on the plateau of Colfiorito (Italy). *XV Italian Congress of Ornithology, Sabaudia, Italy*.
 
 ### Thesis
 Paci P. A wearer-centred framework to design for wearability in animal biotelemetry. PhD Thesis, The Open University.
