@@ -1,4 +1,4 @@
-[**Research**](#research)|[**Projects**](#projects)|[**CV**](#curriculum-vitae)|[**Publications**](#publications)|[**Links**](#links)
+[**research**](#research)|[**projects**](#projects)|[**cv**](#curriculum-vitae)|[**publications**](#publications)|[**links**](#links)
 
 
 # Research
