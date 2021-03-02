@@ -1,5 +1,5 @@
 [**Research**](#Research)|[**Projects**](#Projects)|[**CV**](#Curriculum-Vitae)|[**Publications**](#Publications)|[**Links**](#Links)
--------------------------|-------------------------|---------------------------|---------------------------------|-------------------
+
 
 # Research
 I am a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
