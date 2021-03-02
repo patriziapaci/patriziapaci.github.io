@@ -1,3 +1,6 @@
+[**research**](#research)|[**projects**](#projects)|[**cv**](#curriculum-vitae)|[**publications**](#publications)|[**links**](#links)
+
+
 # Research
 I am a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
 
@@ -23,11 +26,11 @@ Developing canine-centred light switches and door controls to improve training a
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving wearability in animal biotelemetry
-##### *2014-2019*
+###### *2014-2019*
 My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred prototype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### EVENT project
-##### *2010-2011*
+###### *2010-2011*
 Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
 
 # Curriculum Vitae
@@ -109,4 +112,5 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 ## Links
 [<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Twitter" src="https://user-images.githubusercontent.com/79411148/109402759-d99d9c00-7958-11eb-9393-ad7f1adc7046.png">](https://twitter.com/home?lang=it) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
-e-mail: patrizia.paci@open.ac.uk
+Institutional e-mail - patrizia.paci@open.ac.uk
+Personal e-mail - patrizia.paci1@gmailcom
