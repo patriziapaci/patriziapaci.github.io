@@ -1,4 +1,4 @@
-[**Research**](#4)|[**Projects**](#Projects)|[**CV**](#Curriculum-Vitae)|[**Publications**](#Publications)|[**Links**](#Links)
+[**Research**](#research)|[**Projects**](#projects)|[**CV**](#curriculum-vitae)|[**Publications**](#publications)|[**Links**](#links)
 
 
 # Research
@@ -26,11 +26,11 @@ Developing canine-centred light switches and door controls to improve training a
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving wearability in animal biotelemetry
-##### *2014-2019*
+###### *2014-2019*
 My doctoral project on evaluating the wearability of GPS collars for cats, designing a wearer-centred prototype that improved wearability, and developing a design framework for establishing wearer-centred requirements for animal wearables. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=826). 
 
 ### EVENT project
-##### *2010-2011*
+###### *2010-2011*
 Visiting researcher at Bayreuth University, working on the EVENT project to study the effects of extreme climatic events on vegetation. [Find out more](http://www.bayceer.uni-bayreuth.de/EVENT/index.php?lang=de).
 
 # Curriculum Vitae
