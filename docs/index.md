@@ -68,9 +68,6 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 
 # Publications
 
-### 2021
-Paci P, Mancini C, Nuseibeh B. Privacy-aware multispecies interaction design: accounting for animals’ privacy requirements in interactive systems. **Submitted, waiting for acceptance** to *2021 Int. Conf. on Designing Interactive Systems (DIS2021)*.
-
 ### 2020
 Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. *In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human-centred design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM)*. **Honourable mention award**
 [ACM Library Open Access](https://dl.acm.org/doi/abs/10.1145/3357236.3395546)
