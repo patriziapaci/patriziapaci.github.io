@@ -2,7 +2,9 @@
 
 
 # Research
-I am a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University.
+I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK.
+I am a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TUDelft, The Netherlands.
+I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival, and S111: Questions in Science at The Open University
 
 My research focuses on
 - Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
@@ -10,6 +12,7 @@ My research focuses on
 - Developing animal-centred interactive technology to improve the working experience of service dogs.
 - Designing animal biotelemetry systems to improve their wearability.
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
+- Developing learning algorithms for recognising animal activities on videos.
 
 # Projects
 
@@ -49,16 +52,15 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 
 ### Teaching experience
 
-- Associate Lecturer, Questions in Science, The Open University, UK
-- Module Assistant, Evolutionary Biology, The Open University, UK
+- Associate Lecturer, S295: The Biology of Survival & S111: Questions in Science, The Open University, UK
 - PhD Third-Party Monitor, Research School, The Open University, UK
 - Library Supporter for visually impaired researchers, The Open University, UK
 
 ### Education
 
 - PhD, The Open University, UK
-- MSc, University of Camerino, Italy
-- BSc, University of Camerino, Italy
+- MSc, University of Camerino, Italy (1st class honour)
+- BSc, University of Camerino, Italy (1st class honour)
 
 Between October 2015 and March 2019, I was a doctoral candidate in Computing at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
 
@@ -112,6 +114,6 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 ## Links
 [<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Twitter" src="https://user-images.githubusercontent.com/79411148/109402759-d99d9c00-7958-11eb-9393-ad7f1adc7046.png">](https://twitter.com/PatzPaci) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
-Institutional e-mail: patrizia.paci@open.ac.uk
+Institutional e-mail: patrizia.paci@open.ac.uk, p.paci@tudelft.nl
 
 Personal e-mail: patrizia.paci1@gmail.com
