@@ -2,8 +2,8 @@
 
 
 # Research
-- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK.
 - I am a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TUDelft, The Netherlands.
+- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK.
 - I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival and S111: Questions in Science, The Open University, UK.
 
 My research focuses on
