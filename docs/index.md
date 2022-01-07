@@ -70,8 +70,13 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 
 # Publications
 
+### 2022
+Paci P, Mancini C, Nuseibeh B. (2022) The case for animal privacy in the design of technologically supported environments. *Frontiers in Veterinary Science 8: 784794*.
+[Front. Vet. Sci. Open Access](https://user-images.githubusercontent.com/79411148/148527580-b67631ab-8a6a-4843-88d5-8b229635905e.png)
+
 ### 2021
-French F, Hirsky-Douglas I, Väätäjä H, Chisik Y, Karl S, Kasuga H, Mangat M, Nannoni E, Paci P, Pons Tomas P, Vilker D, Zamansky A. (2021) Ethics and power dynamics in playful technology for animals: using speculative design to provoke reflection. *In Academic Mindtrek 2021, 1-3 June 2021, Tampere, Finland (virtual). (In Press)
+French F, Hirsky-Douglas I, Väätäjä H, Chisik Y, Karl S, Kasuga H, Mangat M, Nannoni E, Paci P, Pons Tomas P, Vilker D, Zamansky A. (2021) Ethics and power dynamics in playful technology for animals: using speculative design to provoke reflection. *In Academic Mindtrek 2021, 1-3 June 2021, Tampere, Finland, pp. 91-101 (ACM)*.
+[ACM Library](https://dl.acm.org/doi/10.1145/3464327.3464366)
 
 ### 2020
 Paci P, Mancini C, Price BA. (2020) Understanding the interaction between animals and wearables: the wearer experience of cats. *In Proc. of the 2020 Int. Conf. on Designing Interactive Systems: more than human-centred design (DIS2020), Eindhoven, Netherlands, pp. 1701-1712 (ACM)*. **Honourable mention award**
