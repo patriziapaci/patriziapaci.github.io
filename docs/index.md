@@ -74,23 +74,16 @@ During my Master's degree in Management of the Natural Environment at the Univer
 I specialised in animal physiology during my Bachelor's degree in Natural Sciences at the University of Camerino. This included six months of Erasmus studies at the University of Seville (Spain), where I studied neurophysiology.
 
 ### Training and Development
-2022
 - Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL
-2021 
 - Coursera Machine Learning course by Stanford University
 - 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting
 - ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals
 - AWRN workshop - Novel Minimally Invasive Tools to Investigate Animal Behaviour and Welfare
-2020
 - AWRN workshop - Current Development in Precision Livestock Farming (PLF) Technologies
 - AWRN workshop - Grant Writing and Reviewing
-2017	
 - OU Academic Professional Development - NVIVO training
-2017	
 - IDEO online courses - Human-Centered Design 201: Prototyping
-2016	
 - OU Academic Professional Development - Stats: quantitative research design and data analysis
-2014	
 - The Physiological Society - Introduction to molecular biology techniques, transfections and functional studies
 
 # Publications
