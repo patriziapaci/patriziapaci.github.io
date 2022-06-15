@@ -14,7 +14,10 @@ My research focuses on
 - Designing animal biotelemetry systems to improve their wearability.
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
 
-I have an interest in the fields of bioacoustics and valence in animal emotions.
+I have an interest in the fields of bioacoustics and valence in animal emotions. I have partipated to:
+- Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL
+- 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting
+- ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals
 
 # Projects
 
@@ -74,10 +77,7 @@ During my Master's degree in Management of the Natural Environment at the Univer
 I specialised in animal physiology during my Bachelor's degree in Natural Sciences at the University of Camerino. This included six months of Erasmus studies at the University of Seville (Spain), where I studied neurophysiology.
 
 ### Training and Development
-- Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL
 - Coursera Machine Learning course by Stanford University
-- 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting
-- ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals
 - AWRN workshop - Novel Minimally Invasive Tools to Investigate Animal Behaviour and Welfare
 - AWRN workshop - Current Development in Precision Livestock Farming (PLF) Technologies
 - AWRN workshop - Grant Writing and Reviewing
