@@ -1,7 +1,7 @@
 [**research**](#research)|[**projects**](#projects)|[**cv**](#curriculum-vitae)|[**publications**](#publications)|[**links**](#links)
 
 
-# Working and Research Experience
+# Who I Am
 - I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamentals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
 - I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK and a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands.
 
@@ -58,7 +58,7 @@ From October 2014 to March 2019, I researched how to design for wearability in a
 
 From 2009 to 2012, I worked as a Research Assistant in projects on maritime telemedicine, wildlife monitoring, and climate change research.
 
-### Teaching experience
+### Teaching Experience
 
 - Associate Lecturer, S295: The Biology of Survival & S111: Questions in Science, The Open University, UK
 - PhD Third-Party Monitor, Research School, The Open University, UK
