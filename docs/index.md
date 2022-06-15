@@ -2,7 +2,7 @@
 
 
 # Research
-- I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamnetals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
+- I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamentals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
 - I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK and a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands.
 
 
