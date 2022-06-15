@@ -15,9 +15,9 @@ My research focuses on
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
 
 I have an interest in the fields of bioacoustics and valence in animal emotions. I have partipated to:
-- Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL
-- 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting
-- ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals
+- Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL (June 2022)
+- 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting (October 2021)
+- ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals (April 2021)
 
 # Projects
 
