@@ -2,17 +2,19 @@
 
 
 # Research
-- I am a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TUDelft, The Netherlands.
-- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK.
-- I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival and S111: Questions in Science, The Open University, UK.
+- I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamnetals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
+- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK and a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands.
+
 
 My research focuses on
+- Annotating videos and developing machine learning algorithms for recognising animal activities on videos. 
 - Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
 - Ethical aspects of animal-centred interactive system design.
 - Developing animal-centred interactive technology to improve the working experience of service dogs.
 - Designing animal biotelemetry systems to improve their wearability.
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
-- Developing learning algorithms for recognising animal activities on videos.
+
+I have an interest in the fields of bioacoustics and valence in animal emotions.
 
 # Projects
 
@@ -40,13 +42,16 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 
 ### Research Experience
 
+- Visiting researcher, TU Delft, NL
 - Research Associate, The Open University, UK
 - Visting and then PhD researcher, The Open University, UK
 - Research Assistant, University of Camerino, Italy & University of Bayreuth, Germany
 
-Since April 2019, I have been a Research Associate in Animal-Computer Interaction, working on designing interactive systems for non-human animals at The Open University.
+From November 2021 to March 2022, I was a visiting researcher at the Machine Vision Group of Prof. Jan Van Gemert at TU Delft, where I worked on a 'real world' video dataset to annotate and recognise animal activities.
 
-From October 2014 to September 2015, and then from October 2015 to March 2019, I researched how to design for wearability in animal biotelemetry.
+Since April 2019, I have been a Research Associate in Animal-Computer Interaction, working on designing interactive systems for non-human animals with Prof. Clara Mancini at The Open University.
+
+From October 2014 to March 2019, I researched how to design for wearability in animal biotelemetry.
 
 From 2009 to 2012, I worked as a Research Assistant in projects on maritime telemedicine, wildlife monitoring, and climate change research.
 
@@ -58,9 +63,9 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 
 ### Education
 
-- PhD, The Open University, UK
-- MSc, University of Camerino, Italy (1st class honour)
-- BSc, University of Camerino, Italy (1st class honour)
+- PhD in Animal-Computer Interaction, The Open University, UK
+- MSc in Management of the Natural Environment, University of Camerino, Italy (1st class honour)
+- BSc in Natural Sciences, University of Camerino, Italy (1st class honour)
 
 Between October 2015 and March 2019, I was a doctoral candidate in Computing at The Open University, where I conducted interdisciplinary research in Interaction Design, Animal Biotelemetry, and Animal Behaviour.
 
@@ -119,6 +124,6 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 ## Links
 [<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Twitter" src="https://user-images.githubusercontent.com/79411148/109402759-d99d9c00-7958-11eb-9393-ad7f1adc7046.png">](https://twitter.com/PatzPaci) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
-Institutional e-mail: patrizia.paci@open.ac.uk, p.paci@tudelft.nl
+Institutional e-mail: patrizia.paci@open.ac.uk
 
 Personal e-mail: patrizia.paci1@gmail.com
