@@ -29,11 +29,11 @@ Developing interactive and monitoring technology to support wildlife welfare in 
 Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
 ### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
-##### *2020-2021
+##### *2020-2021*
 Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
 ### Canine signalling interfaces for Bio Detection Dogs
-##### *2019-2020
+##### *2019-2020*
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving wearability in animal biotelemetry
