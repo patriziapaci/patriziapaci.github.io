@@ -2,11 +2,12 @@
 
 
 # Who I Am
-- I am an associate lecturer in STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamentals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
-- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK and a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands.
+- I am an Associate Lecturer in the STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamentals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
+- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK; a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands; and a visiting researcher at the Social AI group, Vrije Universiteit Amsterdam.
 
 
-My research focuses on
+My research assignments included:
+- Applying dog training techniques to the design of human-robot interactions in social AI.
 - Annotating videos and developing machine learning algorithms for recognising animal activities on videos. 
 - Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
 - Ethical aspects of animal-centred interactive system design.
@@ -14,7 +15,7 @@ My research focuses on
 - Designing animal biotelemetry systems to improve their wearability.
 - Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
 
-I have an interest in the fields of bioacoustics and valence in animal emotions. I have partipated to:
+I also have an interest in the fields of bioacoustics and valence in animal emotions. I have partipated to:
 - Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL (June 2022)
 - 3rd International Workshop on Vocal Interactivity in-and-between Humans, Animals and Robots (VIHAR-2021), virtual meeting (October 2021)
 - ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals (April 2021)
@@ -28,9 +29,11 @@ Developing interactive and monitoring technology to support wildlife welfare in 
 Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
 ### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
+##### *2020-2021
 Developing canine-centred light switches and door controls to improve training and performance of Mobility Assistance Dogs. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=791)
 
 ### Canine signalling interfaces for Bio Detection Dogs
+##### *2019-2020
 Investigating bio-detection dogs' spontaneous interactions with pressure sensors to provide reliable communication devices for handler-dog signalling protocols. [Find out more](http://www.open.ac.uk/blogs/ACI/?page_id=785)
 
 ### Improving wearability in animal biotelemetry
@@ -45,10 +48,13 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 
 ### Research Experience
 
-- Visiting researcher, TU Delft, NL
-- Research Associate, The Open University, UK
-- Visting and then PhD researcher, The Open University, UK
-- Research Assistant, University of Camerino, Italy & University of Bayreuth, Germany
+- Researcher in AI and ML, Vrije Universiteit Amsterdam (2022-2023), TU Delft, NL (2021-2022)
+- Research Associate (Post-doc) in ACI, The Open University, UK (2019-2022)
+- Research Assistant and PhD researcher in ACI, The Open University, UK (2014-2019)
+- Research Assistant in Ecology, Climate Change, and public Health, University of Camerino, Italy & University of Bayreuth, Germany (2009-2012)
+- Laboratory Intern in Animal Physiology (2006), University of Camerino, Italy
+
+From November 2022 to the present, I am a visiting researcher at the Social AI group at VU Amsterdam, where I am working on applying dog training technique to develop protocols, guidelines and frameworks to the design of interaction between human teachers and robot learners.
 
 From November 2021 to March 2022, I was a visiting researcher at the Machine Vision Group of Prof. Jan Van Gemert at TU Delft, where I worked on a 'real world' video dataset to annotate and recognise animal activities.
 
@@ -77,6 +83,9 @@ During my Master's degree in Management of the Natural Environment at the Univer
 I specialised in animal physiology during my Bachelor's degree in Natural Sciences at the University of Camerino. This included six months of Erasmus studies at the University of Seville (Spain), where I studied neurophysiology.
 
 ### Training and Development
+- Animal Cultures: Core Discoveries and New Horizons, The Cultural Evolution Society’s Online Learning Series
+- Coursera Animal Behaviour and Welfare by the University of Edinburgh
+- Coursera Python for Everybody Specialization by the University of Michigan
 - Coursera Machine Learning course by Stanford University
 - AWRN workshop - Novel Minimally Invasive Tools to Investigate Animal Behaviour and Welfare
 - AWRN workshop - Current Development in Precision Livestock Farming (PLF) Technologies
