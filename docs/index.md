@@ -52,9 +52,9 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 - Research Associate (Post-doc) in ACI, The Open University, UK (2019-2022)
 - Research Assistant and PhD researcher in ACI, The Open University, UK (2014-2019)
 - Research Assistant in Ecology, Climate Change, and public Health, University of Camerino, Italy & University of Bayreuth, Germany (2009-2012)
-- Laboratory Intern in Animal Physiology (2006), University of Camerino, Italy
+- Laboratory Intern in Animal Physiology, University of Camerino, Italy (2006)
 
-From November 2022 to the present, I am a visiting researcher at the Social AI group at VU Amsterdam, where I am working on applying dog training technique to develop protocols, guidelines and frameworks to the design of interaction between human teachers and robot learners.
+From November 2022 to the present, I have been a visiting researcher at the Social AI group at VU Amsterdam, where I have been working on applying dog training technique to develop protocols, guidelines and frameworks to the design of interaction between human teachers and robot learners.
 
 From November 2021 to March 2022, I was a visiting researcher at the Machine Vision Group of Prof. Jan Van Gemert at TU Delft, where I worked on a 'real world' video dataset to annotate and recognise animal activities.
 
