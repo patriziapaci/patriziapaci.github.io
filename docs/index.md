@@ -25,6 +25,9 @@ I also have an interest in the fields of bioacoustics and valence in animal emot
 ### Integrated smart systems for endangered species conservation
 Developing interactive and monitoring technology to support wildlife welfare in captivity and conservation in the wild.
 
+### HAPPIE: Haptic Authoring Pipeline for the Production of Immersive Experiences
+Developing security and safety systems for people with visual impairment partnered with guide dogs.
+
 ### Privacy-aware multispecies interaction design and applications
 Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
@@ -83,6 +86,8 @@ During my Master's degree in Management of the Natural Environment at the Univer
 I specialised in animal physiology during my Bachelor's degree in Natural Sciences at the University of Camerino. This included six months of Erasmus studies at the University of Seville (Spain), where I studied neurophysiology.
 
 ### Training and Development
+- OU series – Developing skills in the workplace: BG007-N project Management; BG003-N New Managers’ Toolkit
+- Animal Shelter DOA Amsterdam training: Communication and training of sheltered dogs
 - Animal Cultures: Core Discoveries and New Horizons, The Cultural Evolution Society’s Online Learning Series
 - Coursera Animal Behaviour and Welfare by the University of Edinburgh
 - Coursera Python for Everybody Specialization by the University of Michigan
@@ -96,6 +101,14 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 - The Physiological Society - Introduction to molecular biology techniques, transfections and functional studies
 
 # Publications
+
+### 2023
+Aristeidou M, Cross S, Rossade K-D, Wood C, Rees T, Paci P. (2023) Online exams in higher education: exploring distance learning students' acceptance and satisfaction. *Journal of Computer Assisted Learning 2023;1-18*
+[JCAL Open Access](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12888)
+
+Paci P, Tiddi I, Preciado Vanegas D, Baraka K. (2023). ``Who's a good robot?!'' Designing Human-Robot Teaching Interactions inspired by Dog Training. *In Proc. of the 2nd Int. Conf. in Hybrid Human-Artificial Intelligence (HHAI 2023), Frontiers in Artificial Intelligence and Applications, 368. IOS Press, pp. 310-319*.
+
+Aristeidou M, Cross S, Rossade K-D, Wood C, Paci P. (2023) Examining university student satisfaction and barriers to taking online remote exams. *In Proc. of the 9th Int Conf on Higher Education Advances (HEAd'23), UPV Press, Valencia, Spain, pp. 1-8*.
 
 ### 2022
 Paci P, Mancini C, Nuseibeh B. (2022) The case for animal privacy in the design of technologically supported environments. *Frontiers in Veterinary Science 8: 784794*.
