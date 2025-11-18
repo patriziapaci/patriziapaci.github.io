@@ -8,7 +8,7 @@
 
 
 My research work has included:
-- Leading public engagement research activity for the Dogosophy Button Project [Dogosophy Button](https://www.animalcomputerinteractionlab.org/dogosophy-button-project)
+- Leading public engagement research activity for the [Dogosophy Button](https://www.animalcomputerinteractionlab.org/dogosophy-button-project) project
 - Applying dog training techniques to the design of human-robot interactions in social AI
 - Annotating videos and developing machine learning algorithms for recognising animal activities on videos 
 - Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals
