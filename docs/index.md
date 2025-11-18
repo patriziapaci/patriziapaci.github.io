@@ -2,18 +2,20 @@
 
 
 # Who I Am
-- I am an Associate Lecturer in the STEM Faculty for the modules S295: The Biology of Survival (evolutionary biology) and S111: Questions in Science (fundamentals of biology, physics, chemistry, Earth science and astronomy), The Open University, UK.
-- I have been a researcher at the [Animal-Computer Interaction Lab](http://www.open.ac.uk/blogs/ACI/), The Open University, UK; a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands; and a visiting researcher at the Social AI group, Vrije Universiteit Amsterdam.
+- I am an Associate Lecturer in the STEM Faculty for the modules S286: Biodiversity, Survival in a Changing World, and S111: Questions in Science (fundamentals of Biology, Physics, Chemistry, Earth Science and Astronomy) at The Open University, UK. I also taught the module S295: The Biology of Survival (Evolutionary Biology).
+- I am also a researcher and research consultant at the [Animal-Computer Interaction Lab](https://www.animalcomputerinteractionlab.org), The Open University, UK.
+- I was a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands; and a visiting researcher at the Social AI group, Vrije Universiteit Amsterdam, The Netherlands.
 
 
-My research assignments included:
-- Applying dog training techniques to the design of human-robot interactions in social AI.
-- Annotating videos and developing machine learning algorithms for recognising animal activities on videos. 
-- Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals.
-- Ethical aspects of animal-centred interactive system design.
-- Developing animal-centred interactive technology to improve the working experience of service dogs.
-- Designing animal biotelemetry systems to improve their wearability.
-- Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements.
+My research work has included:
+- Leading public engagement research activity for the Dogosophy Button Project [Dogosophy Button](https://www.animalcomputerinteractionlab.org/dogosophy-button-project)
+- Applying dog training techniques to the design of human-robot interactions in social AI
+- Annotating videos and developing machine learning algorithms for recognising animal activities on videos 
+- Designing smart environments for the cognitive enrichment and welfare monitoring of captive animals
+- Ethical aspects of animal-centred interactive system design
+- Developing animal-centred interactive technology to improve the working experience of service dogs
+- Designing animal biotelemetry systems to improve their wearability
+- Developing design frameworks to enable systematic elicitations of animal-centred systems' requirements
 
 I also have an interest in the fields of bioacoustics and valence in animal emotions. I have partipated to:
 - Animal Bioacoustics and Human Speech Symposium, Nijmegen, NL (June 2022)
@@ -21,6 +23,8 @@ I also have an interest in the fields of bioacoustics and valence in animal emot
 - ASAB Workshop - Allying Welfare Research on the Impacts of Human-Generated Sounds on Animals (April 2021)
 
 # Projects
+### Dogosophy Buttons
+Developing a wireless control button designed with dogs’ sensory, cognitive and physical characteristics in mind, allowing them to easily switch on and off a range of domestic appliances.
 
 ### Integrated smart systems for endangered species conservation
 Developing interactive and monitoring technology to support wildlife welfare in captivity and conservation in the wild.
