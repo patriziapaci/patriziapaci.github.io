@@ -111,7 +111,7 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 # Publications
 
 ### 2025
-Pitt B, Aristeidou M, Paci P, Davies L, Jones D, Harvey G. (2025) Using Open Educational Resources (OER) to support college students: the case of the national enrichment programme. EDULEARN25 Proceedings 5741-5741* [EDULEARN25](https://library.iated.org/view/PITT2025USI)
+Pitt B, Aristeidou M, Paci P, Davies L, Jones D, Harvey G. (2025) Using Open Educational Resources (OER) to support college students: the case of the national enrichment programme. *EDULEARN25 Proceedings 5741-5741* [EDULEARN25](https://library.iated.org/view/PITT2025USI)
 
 ### 2024
 Aristeidou M, Cross S, Rossade K-D, Wood C, Rees T, Paci P. (2024) Online exams in higher education: exploring distance learning students' acceptance and satisfaction. *Journal of Computer Assisted Learning 2023;1-18*
