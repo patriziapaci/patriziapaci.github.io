@@ -2,9 +2,9 @@
 
 
 # Who I Am
-- I am an Associate Lecturer in the STEM Faculty for the modules S286: Biodiversity, Survival in a Changing World, and S111: Questions in Science (fundamentals of Biology, Physics, Chemistry, Earth Science and Astronomy) at The Open University, UK. I also taught the module S295: The Biology of Survival (Evolutionary Biology).
+- I am an Associate Lecturer in the STEM Faculty for the modules S286: Biodiversity - Survival in a Changing World, and S111: Questions in Science (fundamentals of Biology, Physics, Chemistry, Earth Science and Astronomy) at The Open University, UK. I also taught the module S295: The Biology of Survival (Evolutionary Biology).
 - I am a researcher and consultant at the [Animal-Computer Interaction Lab](https://www.animalcomputerinteractionlab.org), The Open University, UK.
-- I was a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, The Netherlands; and a visiting researcher at the Social AI group, Vrije Universiteit Amsterdam, The Netherlands.
+- I was a visiting researcher at the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab), TU Delft, NL, and a visiting researcher at the Social AI group, Vrije Universiteit Amsterdam, NL.
 
 
 My research work has included:
@@ -25,7 +25,7 @@ I also have an interest in the fields of bioacoustics and valence in animal emot
 # Projects
 ### Dogosophy Buttons
 ##### *2025-ongoing*
-Developing a wireless control button designed with dogs’ sensory, cognitive and physical characteristics in mind, allowing them to easily switch on and off a range of domestic appliances.
+Developing a wireless control button designed with dogs’ sensory, cognitive and physical characteristics in mind, allowing them to easily switch on and off a range of domestic appliances. [Find out more](https://www.dogosophy.design)
 
 ### Integrated smart systems for endangered species conservation
 ##### *2021*
@@ -37,7 +37,7 @@ Developing security and safety systems for people with visual impairment partner
 
 ### Privacy-aware multispecies interaction design and applications
 ##### *2020-2021*
-Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
+Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments. [Find out more](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2021.784794/full)
 
 ### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
 ##### *2020-2021*
@@ -59,8 +59,8 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 
 ### Research Experience
 
-- Researcher and Consultant in ACI, The Open University, UK (2019-ongoing)
-- Researcher in AI and ML, Vrije Universiteit Amsterdam (2022-2023), TU Delft, NL (2021-2022)
+- Researcher and consultant in ACI, The Open University, UK (2019 - ongoing)
+- Researcher in AI and ML, Vrije Universiteit Amsterdam (2022-2023) and TU Delft (2021-2022)
 - Research Assistant and PhD researcher in ACI, The Open University, UK (2014-2019)
 - Research Assistant in Ecology, Climate Change, and public Health, University of Camerino, Italy & University of Bayreuth, Germany (2009-2012)
 - Laboratory Intern in Animal Physiology, University of Camerino, Italy (2006)
@@ -77,7 +77,7 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 
 ### Teaching Experience
 
-- Associate Lecturer, S286: Biodiversity, Survival in a Changing World, S295: The Biology of Survival, S111: Questions in Science, The Open University, UK
+- Associate Lecturer in S286: Biodiversity - Survival in a Changing World, S295: The Biology of Survival, S111: Questions in Science, The Open University, UK
 - PhD Third-Party Monitor, Research School, The Open University, UK
 - Library Supporter for visually impaired researchers, The Open University, UK
 
@@ -111,18 +111,18 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 # Publications
 
 ### 2025
-Pitt B, Aristeidou M, Paci P, Davies L, Jones D, Harvey G. (2025) Using Open Educational Resources (OER) to support college students: the case of the national enrichment programme. EDULEARN25 Proceedings 5741-5741*
+Pitt B, Aristeidou M, Paci P, Davies L, Jones D, Harvey G. (2025) Using Open Educational Resources (OER) to support college students: the case of the national enrichment programme. EDULEARN25 Proceedings 5741-5741* [EDULEARN25](https://library.iated.org/view/PITT2025USI)
 
 ### 2024
 Aristeidou M, Cross S, Rossade K-D, Wood C, Rees T, Paci P. (2024) Online exams in higher education: exploring distance learning students' acceptance and satisfaction. *Journal of Computer Assisted Learning 2023;1-18*
 [JCAL Open Access](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12888)
 
-Aristeidou M, Paci P, Harvey G, Davies L, Jones D. (2024) Leveraging open educational resources for a more equitable learning landscape: student experiences with the national enrichment programme enhanced in Wales. *ICERI2024 Proceedings, 465-474*.
+Aristeidou M, Paci P, Harvey G, Davies L, Jones D. (2024) Leveraging open educational resources for a more equitable learning landscape: student experiences with the national enrichment programme enhanced in Wales. *ICERI2024 Proceedings, 465-474*. [ICERI2024](https://library.iated.org/view/ARISTEIDOU2024LEV)
 
 ### 2023
-Paci P, Tiddi I, Preciado Vanegas D, Baraka K. (2023) ``Who's a good robot?!'' Designing Human-Robot Teaching Interactions inspired by Dog Training. *In Proc. of the 2nd Int. Conf. in Hybrid Human-Artificial Intelligence (HHAI 2023), Frontiers in Artificial Intelligence and Applications, 368. IOS Press, pp. 310-319*.
+Paci P, Tiddi I, Preciado Vanegas D, Baraka K. (2023) ``Who's a good robot?!'' Designing Human-Robot Teaching Interactions inspired by Dog Training. *In Proc. of the 2nd Int. Conf. in Hybrid Human-Artificial Intelligence (HHAI 2023), Frontiers in Artificial Intelligence and Applications, 368. IOS Press, pp. 310-319*. [IOS Press](https://ebooks.iospress.nl/doi/10.3233/FAIA230094)
 
-Aristeidou M, Cross S, Rossade K-D, Wood C, Paci P. (2023) Examining university student satisfaction and barriers to taking online remote exams. *In Proc. of the 9th Int Conf on Higher Education Advances (HEAd'23), UPV Press, Valencia, Spain, pp. 1-8*.
+Aristeidou M, Cross S, Rossade K-D, Wood C, Paci P. (2023) Examining university student satisfaction and barriers to taking online remote exams. *In Proc. of the 9th Int Conf on Higher Education Advances (HEAd'23), UPV Press, Valencia, Spain, pp. 1-8*. [UPV Repository](https://riunet.upv.es/entities/publication/5118936c-d4e4-40b3-b5bb-fd80bd8ea0cd)
 
 ### 2022
 Paci P, Mancini C, Nuseibeh B. (2022) The case for animal privacy in the design of technologically supported environments. *Frontiers in Veterinary Science 8: 784794*.
