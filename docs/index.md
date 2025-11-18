@@ -24,15 +24,19 @@ I also have an interest in the fields of bioacoustics and valence in animal emot
 
 # Projects
 ### Dogosophy Buttons
+##### *2025-ongoing*
 Developing a wireless control button designed with dogs’ sensory, cognitive and physical characteristics in mind, allowing them to easily switch on and off a range of domestic appliances.
 
 ### Integrated smart systems for endangered species conservation
+##### *2021*
 Developing interactive and monitoring technology to support wildlife welfare in captivity and conservation in the wild.
 
 ### HAPPIE: Haptic Authoring Pipeline for the Production of Immersive Experiences
+##### *2021*
 Developing security and safety systems for people with visual impairment partnered with guide dogs.
 
 ### Privacy-aware multispecies interaction design and applications
+##### *2020-2021*
 Designing privacy-aware systems informed by animals' boundaries requirements to enable friendly human-animal co-habitation in urban and rural environments.
 
 ### DOG-SMART HOMES: improving accessibility for Mobility Assitance Dogs
@@ -55,8 +59,8 @@ Visiting researcher at Bayreuth University, working on the EVENT project to stud
 
 ### Research Experience
 
+- Researcher and Consultant in ACI, The Open University, UK (2019-ongoing)
 - Researcher in AI and ML, Vrije Universiteit Amsterdam (2022-2023), TU Delft, NL (2021-2022)
-- Research Associate (Post-doc) in ACI, The Open University, UK (2019-2022)
 - Research Assistant and PhD researcher in ACI, The Open University, UK (2014-2019)
 - Research Assistant in Ecology, Climate Change, and public Health, University of Camerino, Italy & University of Bayreuth, Germany (2009-2012)
 - Laboratory Intern in Animal Physiology, University of Camerino, Italy (2006)
@@ -73,7 +77,7 @@ From 2009 to 2012, I worked as a Research Assistant in projects on maritime tele
 
 ### Teaching Experience
 
-- Associate Lecturer, S295: The Biology of Survival & S111: Questions in Science, The Open University, UK
+- Associate Lecturer, S286: Biodiversity, Survival in a Changing World, S295: The Biology of Survival, S111: Questions in Science, The Open University, UK
 - PhD Third-Party Monitor, Research School, The Open University, UK
 - Library Supporter for visually impaired researchers, The Open University, UK
 
@@ -106,11 +110,17 @@ I specialised in animal physiology during my Bachelor's degree in Natural Scienc
 
 # Publications
 
-### 2023
-Aristeidou M, Cross S, Rossade K-D, Wood C, Rees T, Paci P. (2023) Online exams in higher education: exploring distance learning students' acceptance and satisfaction. *Journal of Computer Assisted Learning 2023;1-18*
+### 2025
+Pitt B, Aristeidou M, Paci P, Davies L, Jones D, Harvey G. (2025) Using Open Educational Resources (OER) to support college students: the case of the national enrichment programme. EDULEARN25 Proceedings 5741-5741*
+
+### 2024
+Aristeidou M, Cross S, Rossade K-D, Wood C, Rees T, Paci P. (2024) Online exams in higher education: exploring distance learning students' acceptance and satisfaction. *Journal of Computer Assisted Learning 2023;1-18*
 [JCAL Open Access](https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12888)
 
-Paci P, Tiddi I, Preciado Vanegas D, Baraka K. (2023). ``Who's a good robot?!'' Designing Human-Robot Teaching Interactions inspired by Dog Training. *In Proc. of the 2nd Int. Conf. in Hybrid Human-Artificial Intelligence (HHAI 2023), Frontiers in Artificial Intelligence and Applications, 368. IOS Press, pp. 310-319*.
+Aristeidou M, Paci P, Harvey G, Davies L, Jones D. (2024) Leveraging open educational resources for a more equitable learning landscape: student experiences with the national enrichment programme enhanced in Wales. *ICERI2024 Proceedings, 465-474*.
+
+### 2023
+Paci P, Tiddi I, Preciado Vanegas D, Baraka K. (2023) ``Who's a good robot?!'' Designing Human-Robot Teaching Interactions inspired by Dog Training. *In Proc. of the 2nd Int. Conf. in Hybrid Human-Artificial Intelligence (HHAI 2023), Frontiers in Artificial Intelligence and Applications, 368. IOS Press, pp. 310-319*.
 
 Aristeidou M, Cross S, Rossade K-D, Wood C, Paci P. (2023) Examining university student satisfaction and barriers to taking online remote exams. *In Proc. of the 9th Int Conf on Higher Education Advances (HEAd'23), UPV Press, Valencia, Spain, pp. 1-8*.
 
@@ -153,7 +163,7 @@ Grappasonni I, Paci P, Mazzucchi F, Amenta F. (2011) Survey on HIV risk percepti
 [IMH](https://journals.viamedica.pl/international_maritime_health/article/view/26189)
 
 ### Posters
-- Wellstein C, Paci P, Thiel D. et al. (2010) Variability of clonal growth of European grass species in climate change experiments. *Ecological Society of Germany, Switzerland and Austria 40th Anniversary Meeting, Gissen, Germany*.
+- Wellstein C, Paci P, Thiel D, Kreyling J, Jentsch A, Canullo R. (2010) Variability of clonal growth of European grass species in climate change experiments. *Ecological Society of Germany, Switzerland and Austria 40th Anniversary Meeting, Gissen, Germany*.
 - Paci P, Brusaferro A, Insom E. (2009) Study of the red-backed shrike (*Lanius collurio*) on the plateau of Colfiorito (Italy). *XV Italian Congress of Ornithology, Sabaudia, Italy*.
 
 ### Thesis
@@ -161,7 +171,7 @@ Paci P. A wearer-centred framework to design for wearability in animal bioteleme
 [OU repository](http://oro.open.ac.uk/67906/1/Thesis%20-%20A%20WCF%20to%20design%20for%20wearability%20in%20animal%20biotelemetry.pdf)
 
 ## Links
-[<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Twitter" src="https://user-images.githubusercontent.com/79411148/109402759-d99d9c00-7958-11eb-9393-ad7f1adc7046.png">](https://twitter.com/PatzPaci) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
+[<img width="30" alt="Orcid" src="https://user-images.githubusercontent.com/79411148/109402285-f59f3e80-7954-11eb-80f2-9380ab471e15.png">](https://orcid.org/0000-0002-6128-4516) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423162-c03f3300-79de-11eb-97d6-00bf3567734a.png">](https://www.linkedin.com/in/patrizia-paci-820614206/) | [<img width="30" alt="Linkedin" src="https://user-images.githubusercontent.com/79411148/109423225-ef55a480-79de-11eb-946b-770b02f26a02.png">](https://scholar.google.com/citations?user=4WNzUFYAAAAJ&hl=it)
 
 Institutional e-mail: patrizia.paci@open.ac.uk
 
